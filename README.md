@@ -2,7 +2,11 @@
 
 无过滤纯AZ转发API，稳定率99%，首字响应0.8s以内，香港BNG双向专线加速
 
-支持模型：chatgpt-4o-latest dall-e-3 gpt-3.5-turbo gpt-3.5-turbo-instruct gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt-4-32k gpt-4-turbo gpt-4-turbo-2024-04-09 gpt-4-turbo-preview gpt-4o gpt-4o-2024-05-13 gpt-4o-2024-08-06 gpt-4o-mini gpt-4o-mini-2024-07-18 text-embedding-3-large text-embedding-3-small text-embedding-ada-002 tts-1 tts-1-hd whisper-1
+## 支持模型：
+
+chatgpt-4o-latest dall-e-3 gpt-3.5-turbo gpt-3.5-turbo-instruct gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt-4-32k gpt-4-turbo gpt-4-turbo-2024-04-09 gpt-4-turbo-preview gpt-4o gpt-4o-2024-05-13 gpt-4o-2024-08-06 gpt-4o-mini gpt-4o-mini-2024-07-18 text-embedding-3-large text-embedding-3-small text-embedding-ada-002 tts-1 tts-1-hd whisper-1
+
+## 免费API Key
 
 >格式：日期 - 额度 - API Key - Base Url
 
