@@ -1,4 +1,4 @@
-# Free proxy GPT API available, supports high concurrency
+# Free proxy GPT API available, supports high concurrency, no regional restrictions
 
 Unfiltered pure AZ forwarding API, 99% stability rate, first byte response within 0.8s, Hong Kong BNG dedicated bidirectional acceleration
 
@@ -32,6 +32,8 @@ chatgpt-4o-latest dall-e-3 gpt-3.5-turbo gpt-3.5-turbo-instruct gpt-4 gpt-4-0125
   src="https://uptime.gptacg.com/api/badge/13/uptime?labelPrefix=text-embedding-ada-002%E7%8A%B6%E6%80%81%EF%BC%9A"><img
   alt="Dynamic JSON Badge"
   src="https://uptime.gptacg.com/api/badge/14/uptime?labelPrefix=text-embedding-3-small%E7%8A%B6%E6%80%81%EF%BC%9A">
+
+# 免费公益转发GPT API，支持高并发，无地区限制
 
 无过滤纯AZ转发API，稳定率99%，首字响应0.8s以内，香港BNG双向专线加速
 
