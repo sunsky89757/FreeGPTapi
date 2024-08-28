@@ -10,7 +10,9 @@ chatgpt-4o-latest dall-e-3 gpt-3.5-turbo gpt-3.5-turbo-instruct gpt-4 gpt-4-0125
 
 >Format: Date - Quota - API Key - Base Url
 
-- 2024-08-16 50刀 sk-ZcuV2fpw5B2IvjfR9a5f8b5396E547DbB846B5E11d74B7C4 https://api.gptacg.top
+- 2024-08-28 $50 sk-zFVfFX0hhPPlo4Iq284f1e82C70146A384Cb08C59aEd521d https://api.gptacg.top
+
+- 2024-08-16 $50 sk-ZcuV2fpw5B2IvjfR9a5f8b5396E547DbB846B5E11d74B7C4 https://api.gptacg.top
 
 ## Monitoring Status - Uptime
 
@@ -44,6 +46,8 @@ chatgpt-4o-latest dall-e-3 gpt-3.5-turbo gpt-3.5-turbo-instruct gpt-4 gpt-4-0125
 ## 免费API Key
 
 >格式：日期 - 额度 - API Key - Base Url
+
+- 2024-08-28 50刀 sk-zFVfFX0hhPPlo4Iq284f1e82C70146A384Cb08C59aEd521d https://api.gptacg.top
 
 - 2024-08-16 50刀 sk-ZcuV2fpw5B2IvjfR9a5f8b5396E547DbB846B5E11d74B7C4 https://api.gptacg.top
 
