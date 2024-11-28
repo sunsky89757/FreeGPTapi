@@ -46,6 +46,8 @@ chatgpt-4o-latest dall-e-3 gpt-3.5-turbo gpt-3.5-turbo-instruct gpt-4 gpt-4-0125
 ## 免费API Key
 
 >格式：日期 - 额度 - API Key - Base Url
+ 
+- 2024-11-28 50刀 sk-cE8ZIcxaJ8GatcNigvZA5l3Qqz3Pp8s7pBDzxSQy4E6ivfSd https://api.gptacg.top
 
 - 2024-08-28 50刀 sk-zFVfFX0hhPPlo4Iq284f1e82C70146A384Cb08C59aEd521d https://api.gptacg.top
 
