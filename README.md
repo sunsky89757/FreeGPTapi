@@ -22,7 +22,6 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 
 <p>在线稳定率</p>
 
-<img src="https://uptime.stableapi.top/api/badge/25/uptime?labelPrefix=chatgpt-4o-latest+&style=flat-square" alt="chatgpt-4o-latest Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/68/uptime?labelPrefix=claude-3-5-sonnet-20240620+&style=flat-square" alt="claude-3-5-sonnet-20240620 Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/69/uptime?labelPrefix=claude-3-5-sonnet-20241022+&style=flat-square" alt="claude-3-5-sonnet-20241022 Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/70/uptime?labelPrefix=gemini-2.0-flash-exp+&style=flat-square" alt="gemini-2.0-flash-exp Uptime Status">
@@ -38,7 +37,6 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 
 <p>平均响应时间</p>
 
-<img src="https://uptime.stableapi.top/api/badge/25/avg-response?labelPrefix=chatgpt-4o-latest+&style=flat-square" alt="chatgpt-4o-latest Response Time">
 <img src="https://uptime.stableapi.top/api/badge/68/avg-response?labelPrefix=claude-3-5-sonnet-20240620+&style=flat-square" alt="claude-3-5-sonnet-20240620 Response Time">
 <img src="https://uptime.stableapi.top/api/badge/69/avg-response?labelPrefix=claude-3-5-sonnet-20241022+&style=flat-square" alt="claude-3-5-sonnet-20241022 Response Time">
 <img src="https://uptime.stableapi.top/api/badge/70/avg-response?labelPrefix=gemini-2.0-flash-exp+&style=flat-square" alt="gemini-2.0-flash-exp Response Time">
