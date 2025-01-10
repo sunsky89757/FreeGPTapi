@@ -54,7 +54,6 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 
 <p>在线稳定率</p>
 
-<img src="https://uptime.stableapi.top/api/badge/92/uptime?labelPrefix=gpt-3.5-turbo-0125+&style=flat-square" alt="gpt-3.5-turbo-0125 Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/94/uptime?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/95/uptime?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/96/uptime?labelPrefix=gpt-4o-2024-08-06+&style=flat-square" alt="gpt-4o-2024-08-06 Uptime Status">
@@ -66,7 +65,6 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 
 <p>平均响应时间</p>
 
-<img src="https://uptime.stableapi.top/api/badge/92/avg-response?labelPrefix=gpt-3.5-turbo-0125+&style=flat-square" alt="gpt-3.5-turbo-0125 Response Time">
 <img src="https://uptime.stableapi.top/api/badge/94/avg-response?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Response Time">
 <img src="https://uptime.stableapi.top/api/badge/95/avg-response?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Response Time">
 <img src="https://uptime.stableapi.top/api/badge/96/avg-response?labelPrefix=gpt-4o-2024-08-06+&style=flat-square" alt="gpt-4o-2024-08-06 Response Time">
