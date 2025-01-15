@@ -9,6 +9,8 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 ## 免费API Key
 
 >格式：日期 - 额度 - API Key - Base Url
+
+- 2025-01-15 50刀 sk-HYa4Q8frLvW3XestPGGeC3pv9KbdIZWwzATTJTC4QFNtZJyT https://api.gptacg.top
  
 - 2024-11-28 50刀 sk-cE8ZIcxaJ8GatcNigvZA5l3Qqz3Pp8s7pBDzxSQy4E6ivfSd https://api.gptacg.top
 
