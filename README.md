@@ -18,6 +18,10 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 
 - 2024-08-16 50刀 sk-ZcuV2fpw5B2IvjfR9a5f8b5396E547DbB846B5E11d74B7C4 https://api.gptacg.top `已耗尽`
 
+## 接口文档
+
+https://gptacg.apifox.cn/
+
 ## 监控状态
 
 #### 普通分组
