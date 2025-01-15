@@ -11,7 +11,7 @@
 
 ## 支持模型：
 
-gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt-4-turbo gpt-4-turbo-2024-04-09 gpt-4-turbo-preview gpt-4o gpt-4o-2024-05-13 gpt-4o-2024-08-06 gpt-4o-2024-11-20 gpt-4o-mini gpt-4o-mini-2024-07-18 chatgpt-4o-latest claude-3-5-haiku-20241022 claude-3-5-sonnet-20240620 claude-3-5-sonnet-20241022 claude-3-opus-20240229 dall-e-3 deepseek-chat gemini-2.0-flash-exp gemini-exp-1114 gemini-exp-1121 gemini-exp-1206 o1-mini o1-mini-2024-09-12 o1-preview o1-preview-2024-09-12 text-embedding-3-large text-embedding-3-small text-embedding-ada-002 tts-1 tts-1-hd whisper-1
+`gpt-3.5-turbo` `gpt-3.5-turbo-0125` `gpt-4 gpt-4-0125-preview` `gpt-4-1106-preview` `gpt-4-turbo` `gpt-4-turbo-2024-04-09` `gpt-4-turbo-preview` `gpt-4o` `gpt-4o-2024-05-13` `gpt-4o-2024-08-06` `gpt-4o-2024-11-20` `gpt-4o-mini` `gpt-4o-mini-2024-07-18` `claude-3-5-haiku-20241022` `claude-3-5-sonnet-20240620` `claude-3-5-sonnet-20241022` `dall-e-3` `o1-mini` `o1-mini-2024-09-12` `o1-preview` `o1-preview-2024-09-12` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1`
 
 ## 免费API Key
 
