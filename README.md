@@ -22,6 +22,9 @@ gpt-3.5-turbo gpt-3.5-turbo-0125 gpt-4 gpt-4-0125-preview gpt-4-1106-preview gpt
 
 https://gptacg.apifox.cn/
 
+![image](https://github.com/user-attachments/assets/74825ba2-df24-4694-9864-03b1ead6036e)
+
+
 ## 监控状态
 
 #### 普通分组
