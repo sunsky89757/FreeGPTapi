@@ -13,11 +13,11 @@
 
 ### DeepSeek系列（新增）
 
-DeepSeek-R1（671b满血自部署无审核版本，速度快，高并发）、DeepSeek-V3
+`DeepSeek-R1`（671b满血自部署无审核版本，速度快，高并发）、`DeepSeek-V3`
 
 ### Gemini系列（新增）
 
-gemini-2.0-flash、gemini-2.0-flash-exp、gemini-2.0-flash-lite-preview-02-05、gemini-2.0-flash-thinking-exp-01-21、gemini-2.0-pro-exp-02-05
+`gemini-2.0-flash`、`gemini-2.0-flash-exp`、`gemini-2.0-flash-lite-preview-02-05`、`gemini-2.0-flash-thinking-exp-01-21`、`gemini-2.0-pro-exp-02-05`
 
 
 ### 3.5系列
