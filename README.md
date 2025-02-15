@@ -39,7 +39,9 @@
 
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-02-06 50刀 sk-M86Ks8EDqj1cFfdQkw3lQYAbSBSAkR8PJKSi439qKkVr8GmX https://api.gptacg.top `可用`
+- 2025-02-15 50刀 sk-3E7KPucm29GRfbDlEliIjlEqzlCnlAxiMrcpzWeZcrBXRrOq https://api.gptacg.top `可用`
+
+- 2025-02-06 50刀 sk-M86Ks8EDqj1cFfdQkw3lQYAbSBSAkR8PJKSi439qKkVr8GmX https://api.gptacg.top `已耗尽`
 
 - 2025-01-15 50刀 sk-HYa4Q8frLvW3XestPGGeC3pv9KbdIZWwzATTJTC4QFNtZJyT https://api.gptacg.top `已耗尽`
  
