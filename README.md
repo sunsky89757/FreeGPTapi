@@ -60,6 +60,14 @@
 
 - 2024-08-16 50刀 sk-ZcuV2fpw5B2IvjfR9a5f8b5396E547DbB846B5E11d74B7C4 https://api.gptacg.top `已耗尽`
 
+## 快速调用
+
+AI应用选择OpenAI兼容格式，对应的API接口填写：
+
+`https://api.gptacg.top` 或
+`https://api.gptacg.top/v1` 或
+`https://api.gptacg.top/v1/chat/completions`
+
 ## 接口文档
 
 https://gptacg.apifox.cn/
