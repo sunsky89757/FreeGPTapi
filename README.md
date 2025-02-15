@@ -68,12 +68,13 @@ AI应用选择OpenAI兼容格式，对应的API接口填写：
 `https://api.gptacg.top/v1` 或
 `https://api.gptacg.top/v1/chat/completions`
 
+如需开发请参考下方文档。
+
 ## 接口文档
 
 https://gptacg.apifox.cn/
 
 ![image](https://github.com/user-attachments/assets/74825ba2-df24-4694-9864-03b1ead6036e)
-
 
 ## 监控状态
 
