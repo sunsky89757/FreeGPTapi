@@ -84,7 +84,6 @@ https://gptacg.apifox.cn/
 
 <img src="https://uptime.stableapi.top/api/badge/68/uptime?labelPrefix=claude-3-5-sonnet-20240620+&style=flat-square" alt="claude-3-5-sonnet-20240620 Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/69/uptime?labelPrefix=claude-3-5-sonnet-20241022+&style=flat-square" alt="claude-3-5-sonnet-20241022 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/70/uptime?labelPrefix=gemini-2.0-flash-exp+&style=flat-square" alt="gemini-2.0-flash-exp Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/26/uptime?labelPrefix=gpt-3.5-turbo-0125+&style=flat-square" alt="gpt-3.5-turbo-0125 Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/27/uptime?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Uptime Status">
 <img src="https://uptime.stableapi.top/api/badge/24/uptime?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Uptime Status">
@@ -99,7 +98,6 @@ https://gptacg.apifox.cn/
 
 <img src="https://uptime.stableapi.top/api/badge/68/avg-response?labelPrefix=claude-3-5-sonnet-20240620+&style=flat-square" alt="claude-3-5-sonnet-20240620 Response Time">
 <img src="https://uptime.stableapi.top/api/badge/69/avg-response?labelPrefix=claude-3-5-sonnet-20241022+&style=flat-square" alt="claude-3-5-sonnet-20241022 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/70/avg-response?labelPrefix=gemini-2.0-flash-exp+&style=flat-square" alt="gemini-2.0-flash-exp Response Time">
 <img src="https://uptime.stableapi.top/api/badge/26/avg-response?labelPrefix=gpt-3.5-turbo-0125+&style=flat-square" alt="gpt-3.5-turbo-0125 Response Time">
 <img src="https://uptime.stableapi.top/api/badge/27/avg-response?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Response Time">
 <img src="https://uptime.stableapi.top/api/badge/24/avg-response?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Response Time">
