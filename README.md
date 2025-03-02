@@ -82,8 +82,7 @@ https://gptacg.apifox.cn/
 
 ## 加群交流
 
-![image](https://github.com/user-attachments/assets/1ea19066-a3cc-47eb-9608-b33ec33f4c0e)
-
+![image](https://github.com/user-attachments/assets/0578cab3-5d3a-4e5c-9825-5ec830434524)
 
 ## 监控状态
 
