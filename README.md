@@ -48,7 +48,9 @@
 
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-02-23 50刀 sk-gzJWyTh2ZdS1SWqwRxyuTXHp1cgzRCatWld553tMxlLjGmTH https://api.gptacg.top `可用`
+- 2024-03-03 50刀 sk-yKOiZNLkP6UmsYrk2REbQBS1vWTCtXQ6mifguU8ho8cSNUkR https://api.gptacg.top `可用`
+- 
+- 2025-02-23 50刀 sk-gzJWyTh2ZdS1SWqwRxyuTXHp1cgzRCatWld553tMxlLjGmTH https://api.gptacg.top `已耗尽`
 
 - 2025-02-15 50刀 sk-3E7KPucm29GRfbDlEliIjlEqzlCnlAxiMrcpzWeZcrBXRrOq https://api.gptacg.top `已耗尽`
 
@@ -77,6 +79,11 @@ AI应用选择OpenAI兼容格式，对应的API接口填写：
 https://gptacg.apifox.cn/
 
 ![image](https://github.com/user-attachments/assets/74825ba2-df24-4694-9864-03b1ead6036e)
+
+## 加群交流
+
+![image](https://github.com/user-attachments/assets/1ea19066-a3cc-47eb-9608-b33ec33f4c0e)
+
 
 ## 监控状态
 
