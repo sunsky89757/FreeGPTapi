@@ -44,7 +44,7 @@
 
 `dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1`
 
-## 免费API Key
+## 免费API Key【默认分组，gpt系列采用az配额，claude系列采用官网页面逆向（企业分组为官转/aws转发），gemini系列采用官号池轮循，DeepSeek系列自部署）】
 
 >格式：日期 - 额度 - API Key - Base Url
 
