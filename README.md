@@ -48,7 +48,9 @@
 
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-03-14 50刀 sk-1B7ovsIXaQxrzpViOiUrsg8wHgqJrgg8qEAjBzOAmy7TGYxR https://api.gptacg.top `可用`
+- 2025-03-23 50刀 sk-Syi2PzcPewQlepwOjxwetpMCAW7NPOOpQVUuAgGgli7BXpDZ https://api.gptacg.top `可用`
+
+- 2025-03-14 50刀 sk-1B7ovsIXaQxrzpViOiUrsg8wHgqJrgg8qEAjBzOAmy7TGYxR https://api.gptacg.top `已耗尽`
 
 - 2025-03-06 50刀 sk-IAqEbpuQ7CJASySEF1nVz8DDpFd7AtXptcF4drduHrqCSTwP https://api.gptacg.top `可用` `DeepSeek-R1、DeepSeek-V3专用key，仅支持此两个满血模型调用`
 
