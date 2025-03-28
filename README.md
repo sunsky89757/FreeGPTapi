@@ -13,7 +13,7 @@
 
 ### DeepSeek系列（新增）
 
-`DeepSeek-R1`（671b满血自部署无审核版本，速度快，高并发）、`DeepSeek-V3`（满血版本）
+`DeepSeek-R1`（671b满血自部署无审核版本，速度快，高并发）、`DeepSeek-V3`（满血版本）、`DeepSeek-V3-0324`（满血版本）
 
 ### Gemini系列（新增）
 
