@@ -13,6 +13,10 @@
 
 ## 支持模型：
 
+### Grok系列（新增）
+
+`grok-3` `grok-3-all` `grok-3-deepersearch-all` `grok-3-deepsearch-all` `grok-3-image` `grok-3-think-all`
+
 ### DeepSeek组合系列（新增）
 
 `DeepGemini-2.0-flash`（`DeepSeek-R1` + `gemini-2.0-flash`）、`DeepGemini-2.0-pro`（`DeepSeek-R1` + `gemini-2.0-pro-exp-02-05`）、`DeepGemini-2.5-pro`（`DeepSeek-R1` + `gemini-2.5-pro-exp-03-25`）、`DeepGPT-4o-1120`（`DeepSeek-R1` + `gpt-4o-2024-11-20`）
@@ -44,11 +48,11 @@
 
 ### o1系列
 
-`o1-mini` `o1-mini-2024-09-12` `o1-preview` `o1-preview-2024-09-12` 
+`o1-mini` `o1-mini-2024-09-12` `o1-preview` `o1-preview-2024-09-12` `o3-mini` `o3-mini-2025-01-31` 
 
 ### 向量、绘图、音频系列
 
-`dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1`
+`dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1` `gpt-4o-image` `gpt-4o-all`
 
 ## 免费API Key【默认分组，gpt系列采用az配额，claude系列采用官网页面逆向（企业分组为官转/aws转发），gemini系列采用官号池轮循，DeepSeek系列自部署）】
 
