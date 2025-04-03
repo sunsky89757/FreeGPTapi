@@ -160,6 +160,9 @@ https://gptacg.apifox.cn/
 <img src="https://uptime.stableapi.top/api/badge/100/avg-response?labelPrefix=text-embedding-3-small+&style=flat-square" alt="text-embedding-3-small Response Time">
 <img src="https://uptime.stableapi.top/api/badge/101/avg-response?labelPrefix=text-embedding-ada-002+&style=flat-square" alt="text-embedding-ada-002 Response Time">
 
+![image](https://github.com/user-attachments/assets/113197bd-3c46-4668-b945-85c538e4f190)
+
+
 ## 人气曲线：
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sunsky89757/FreeGPTapi&type=Date)](https://star-history.com/#sunsky89757/FreeGPTapi&Date)
