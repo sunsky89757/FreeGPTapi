@@ -13,19 +13,23 @@
 
 ## 支持模型：
 
-### Grok系列（新增）
+### 4.1系列（新增）
+
+`gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14`
+
+### Grok系列
 
 `grok-3` `grok-3-all` `grok-3-deepersearch-all` `grok-3-deepsearch-all` `grok-3-image` `grok-3-think-all`
 
-### DeepSeek组合系列（新增）
+### DeepSeek组合系列
 
 `DeepGemini-2.0-flash`（`DeepSeek-R1` + `gemini-2.0-flash`）、`DeepGemini-2.0-pro`（`DeepSeek-R1` + `gemini-2.0-pro-exp-02-05`）、`DeepGemini-2.5-pro`（`DeepSeek-R1` + `gemini-2.5-pro-exp-03-25`）、`DeepGPT-4o-1120`（`DeepSeek-R1` + `gpt-4o-2024-11-20`）
 
-### DeepSeek系列（新增）
+### DeepSeek系列
 
 `DeepSeek-R1`（671b满血自部署无审核版本，速度快，高并发）、`DeepSeek-V3`（满血版本）、`DeepSeek-V3-0324`（满血版本）
 
-### Gemini系列（新增）
+### Gemini系列
 
 `gemini-2.0-flash`、`gemini-2.0-flash-exp`、`gemini-2.0-flash-lite-preview-02-05`、`gemini-2.0-flash-thinking-exp-01-21`、`gemini-2.0-pro-exp-02-05`、`gemini-2.5-pro-exp-03-25`
 
