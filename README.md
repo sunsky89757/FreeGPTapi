@@ -13,6 +13,10 @@
 - 定期更新公益api-key；
 - 稳定，持久
 
+**可以免费使用的AI应用**
+
+https://www.juheai.monster
+
 ## 支持模型：
 
 ### GPT 4.1系列（新增）
@@ -66,7 +70,7 @@
 
 - 2025-04-15 100刀 sk-NoeNyWaDJ2ex55bXoeH5BQwLAg1CdSKLDwhFkjjRRe9to7oU https://api.gptacg.top `可用` 新模型专用，仅支持`gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14`
 
-- 2025-04-14 50刀 sk-xLwbH4WGJaFZq9ljY1QwW9rEhSlIwQ9qZzsRIh5ilbfV5Jhs https://api.gptacg.top `可用`
+- 2025-04-14 50刀 sk-xLwbH4WGJaFZq9ljY1QwW9rEhSlIwQ9qZzsRIh5ilbfV5Jhs https://api.gptacg.top `已耗尽`
 
 - 2025-04-03 50刀 sk-xOTZrIpz45097zuUyXRymv3FwdkBznxDlHNEaGenU3Ttn9iL https://api.gptacg.top `已耗尽`
 
