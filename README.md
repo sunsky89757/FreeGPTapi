@@ -158,59 +158,7 @@ https://gptacg.apifox.cn/
 
 ## 监控状态
 
-#### 普通分组
-
-<p>在线稳定率</p>
-
-<img src="https://uptime.stableapi.top/api/badge/68/uptime?labelPrefix=claude-3-5-sonnet-20240620+&style=flat-square" alt="claude-3-5-sonnet-20240620 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/69/uptime?labelPrefix=claude-3-5-sonnet-20241022+&style=flat-square" alt="claude-3-5-sonnet-20241022 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/26/uptime?labelPrefix=gpt-3.5-turbo-0125+&style=flat-square" alt="gpt-3.5-turbo-0125 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/27/uptime?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/24/uptime?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/29/uptime?labelPrefix=gpt-4o-2024-08-06+&style=flat-square" alt="gpt-4o-2024-08-06 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/71/uptime?labelPrefix=gpt-4o-2024-11-20+&style=flat-square" alt="gpt-4o-2024-11-20 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/23/uptime?labelPrefix=gpt-4o-mini+&style=flat-square" alt="gpt-4o-mini Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/30/uptime?labelPrefix=text-embedding-3-large+&style=flat-square" alt="text-embedding-3-large Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/31/uptime?labelPrefix=text-embedding-3-small+&style=flat-square" alt="text-embedding-3-small Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/32/uptime?labelPrefix=text-embedding-ada-002+&style=flat-square" alt="text-embedding-ada-002 Uptime Status">
-
-<p>平均响应时间</p>
-
-<img src="https://uptime.stableapi.top/api/badge/68/avg-response?labelPrefix=claude-3-5-sonnet-20240620+&style=flat-square" alt="claude-3-5-sonnet-20240620 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/69/avg-response?labelPrefix=claude-3-5-sonnet-20241022+&style=flat-square" alt="claude-3-5-sonnet-20241022 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/26/avg-response?labelPrefix=gpt-3.5-turbo-0125+&style=flat-square" alt="gpt-3.5-turbo-0125 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/27/avg-response?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Response Time">
-<img src="https://uptime.stableapi.top/api/badge/24/avg-response?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Response Time">
-<img src="https://uptime.stableapi.top/api/badge/29/avg-response?labelPrefix=gpt-4o-2024-08-06+&style=flat-square" alt="gpt-4o-2024-08-06 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/71/avg-response?labelPrefix=gpt-4o-2024-11-20+&style=flat-square" alt="gpt-4o-2024-11-20 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/23/avg-response?labelPrefix=gpt-4o-mini+&style=flat-square" alt="gpt-4o-mini Response Time">
-<img src="https://uptime.stableapi.top/api/badge/30/avg-response?labelPrefix=text-embedding-3-large+&style=flat-square" alt="text-embedding-3-large Response Time">
-<img src="https://uptime.stableapi.top/api/badge/31/avg-response?labelPrefix=text-embedding-3-small+&style=flat-square" alt="text-embedding-3-small Response Time">
-<img src="https://uptime.stableapi.top/api/badge/32/avg-response?labelPrefix=text-embedding-ada-002+&style=flat-square" alt="text-embedding-ada-002 Response Time">
-
-#### 企业分组
-
-<p>在线稳定率</p>
-
-<img src="https://uptime.stableapi.top/api/badge/94/uptime?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/95/uptime?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/96/uptime?labelPrefix=gpt-4o-2024-08-06+&style=flat-square" alt="gpt-4o-2024-08-06 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/97/uptime?labelPrefix=gpt-4o-2024-11-20+&style=flat-square" alt="gpt-4o-2024-11-20 Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/98/uptime?labelPrefix=gpt-4o-mini+&style=flat-square" alt="gpt-4o-mini Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/99/uptime?labelPrefix=text-embedding-3-large+&style=flat-square" alt="text-embedding-3-large Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/100/uptime?labelPrefix=text-embedding-3-small+&style=flat-square" alt="text-embedding-3-small Uptime Status">
-<img src="https://uptime.stableapi.top/api/badge/101/uptime?labelPrefix=text-embedding-ada-002+&style=flat-square" alt="text-embedding-ada-002 Uptime Status">
-
-<p>平均响应时间</p>
-
-<img src="https://uptime.stableapi.top/api/badge/94/avg-response?labelPrefix=gpt-4-turbo+&style=flat-square" alt="gpt-4-turbo Response Time">
-<img src="https://uptime.stableapi.top/api/badge/95/avg-response?labelPrefix=gpt-4o+&style=flat-square" alt="gpt-4o Response Time">
-<img src="https://uptime.stableapi.top/api/badge/96/avg-response?labelPrefix=gpt-4o-2024-08-06+&style=flat-square" alt="gpt-4o-2024-08-06 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/97/avg-response?labelPrefix=gpt-4o-2024-11-20+&style=flat-square" alt="gpt-4o-2024-11-20 Response Time">
-<img src="https://uptime.stableapi.top/api/badge/98/avg-response?labelPrefix=gpt-4o-mini+&style=flat-square" alt="gpt-4o-mini Response Time">
-<img src="https://uptime.stableapi.top/api/badge/99/avg-response?labelPrefix=text-embedding-3-large+&style=flat-square" alt="text-embedding-3-large Response Time">
-<img src="https://uptime.stableapi.top/api/badge/100/avg-response?labelPrefix=text-embedding-3-small+&style=flat-square" alt="text-embedding-3-small Response Time">
-<img src="https://uptime.stableapi.top/api/badge/101/avg-response?labelPrefix=text-embedding-ada-002+&style=flat-square" alt="text-embedding-ada-002 Response Time">
+https://uptime.stableapi.top/status/gptacg
 
 ![image](https://github.com/user-attachments/assets/113197bd-3c46-4668-b945-85c538e4f190)
 
