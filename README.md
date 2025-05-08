@@ -13,10 +13,6 @@
 - 定期更新公益api-key；
 - 稳定，持久
 
-**可以免费使用的AI应用**
-
-https://www.juheai.monster
-
 ## 支持模型：
 
 ### GPT 4.1系列（新增）
@@ -164,6 +160,9 @@ https://uptime.stableapi.top/status/gptacg
 
 ![image](https://github.com/user-attachments/assets/113197bd-3c46-4668-b945-85c538e4f190)
 
+**推荐可以免费使用的AI应用**
+
+https://www.juheai.monster
 
 ## 人气曲线：
 
