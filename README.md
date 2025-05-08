@@ -104,7 +104,9 @@ https://www.juheai.monster
 
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-04-29 30刀 sk-Gw2JcBzN81gOHkfiENlfGlizamEXw7gFQkbPQW13OsrwRnEs https://api.gptacg.top `可用`
+- 2025-05-08 30刀 sk-Ks5tgGmIY2pwShUsh5EHuXG3pT81ffrRS8Q8oBG9iDnHSCNo `可用`
+
+- 2025-04-29 30刀 sk-Gw2JcBzN81gOHkfiENlfGlizamEXw7gFQkbPQW13OsrwRnEs https://api.gptacg.top `已耗尽`
 
 - 2025-04-15 100刀 sk-NoeNyWaDJ2ex55bXoeH5BQwLAg1CdSKLDwhFkjjRRe9to7oU https://api.gptacg.top `可用` 新模型专用，仅支持`gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14`
 
