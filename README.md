@@ -67,43 +67,7 @@
 `dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1` `gpt-4o-image` `gpt-4o-all`
 
 ## 免费API Key【默认分组，gpt系列采用az配额，claude系列采用官网页面逆向（企业分组为官转/aws转发），gemini系列采用官号池轮循，DeepSeek系列自部署）】
-
-<div style="
-    background: linear-gradient(90deg, #fbc2eb 0%, #a6c1ee 100%);
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(120,80,160,0.07);
-    padding: 18px 0 18px 0;
-    margin: 0 auto 25px auto;
-    max-width: 100%;
-    font-size: 1.22rem;
-    font-weight: bold;
-    color: #333;
-    text-align: center;
-    letter-spacing: 0.02em;
-    position: relative;
-  ">
-    <span style="font-size:1.5em;vertical-align:middle; margin-right:10px;">🎉</span>
-    五一福利活动限时开启！老用户充值享
-    <span style="color: #e94c4c; background: #fff4df; padding:0 7px; border-radius:4px;">95折</span>优惠，
-    邀请新用户充值，再得充值金额的
-    <span style="color: #1ca466; background: #e7ffe9; padding:0 7px; border-radius:4px;">10%</span>
-    奖励！机会难得，
-    <a href="https://api.gptacg.top/topup" target="_blank" style="
-      display: inline-block;
-      color: #fff;
-      background: #e94c4c;
-      border-radius: 4px;
-      padding: 2px 10px;
-      text-decoration: none;
-      font-size: 1em;
-      margin-left: 4px;
-      box-shadow: 0 1px 2px rgba(233,76,76,0.08);
-      font-weight: bold;
-      transition: background 0.2s;
-    " onmouseover="this.style.background='#d12d2d'" onmouseout="this.style.background='#e94c4c'">立即参与</a>！
-  </div>
   
-
 >格式：日期 - 额度 - API Key - Base Url
 
 - 2025-05-08 30刀 sk-Ks5tgGmIY2pwShUsh5EHuXG3pT81ffrRS8Q8oBG9iDnHSCNo `可用`
