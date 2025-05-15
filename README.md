@@ -70,11 +70,11 @@
   
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-05-08 30刀 sk-Ks5tgGmIY2pwShUsh5EHuXG3pT81ffrRS8Q8oBG9iDnHSCNo `可用`
+- 2025-05-08 30刀 sk-Ks5tgGmIY2pwShUsh5EHuXG3pT81ffrRS8Q8oBG9iDnHSCNo https://api.gptacg.top `可用`
 
 - 2025-04-29 30刀 sk-Gw2JcBzN81gOHkfiENlfGlizamEXw7gFQkbPQW13OsrwRnEs https://api.gptacg.top `已耗尽`
 
-- 2025-04-15 100刀 sk-NoeNyWaDJ2ex55bXoeH5BQwLAg1CdSKLDwhFkjjRRe9to7oU https://api.gptacg.top `可用` 新模型专用，仅支持`gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14`
+- 2025-04-15 100刀 sk-NoeNyWaDJ2ex55bXoeH5BQwLAg1CdSKLDwhFkjjRRe9to7oU https://api.gptacg.top `已耗尽`
 
 - 2025-04-14 50刀 sk-xLwbH4WGJaFZq9ljY1QwW9rEhSlIwQ9qZzsRIh5ilbfV5Jhs https://api.gptacg.top `已耗尽`
 
@@ -84,7 +84,7 @@
 
 - 2025-03-14 50刀 sk-1B7ovsIXaQxrzpViOiUrsg8wHgqJrgg8qEAjBzOAmy7TGYxR https://api.gptacg.top `已耗尽`
 
-- 2025-03-06 50刀 sk-IAqEbpuQ7CJASySEF1nVz8DDpFd7AtXptcF4drduHrqCSTwP https://api.gptacg.top `已耗尽` `DeepSeek-R1、DeepSeek-V3、DeepSeek-V3-0324专用key，仅支持此三个满血模型调用`
+- 2025-03-06 50刀 sk-IAqEbpuQ7CJASySEF1nVz8DDpFd7AtXptcF4drduHrqCSTwP https://api.gptacg.top `已耗尽`
 
 - 2025-03-06 50刀 sk-C8knZx1qPHLiEhTVaUhVqTqnhhewspcHTzGIfRYkWPY9BOZH https://api.gptacg.top `已耗尽`
 
