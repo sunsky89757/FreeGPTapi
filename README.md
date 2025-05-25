@@ -128,7 +128,7 @@ https://gptacg.apifox.cn/
 
 ## 加群交流
 
-![image](https://github.com/user-attachments/assets/0578cab3-5d3a-4e5c-9825-5ec830434524)
+点击链接加入群聊【GPTACG中转API交流群】：https://qm.qq.com/q/hVTUhEOZeS
 
 ## 监控状态
 
