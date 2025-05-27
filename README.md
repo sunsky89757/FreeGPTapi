@@ -70,6 +70,8 @@
   
 >格式：日期 - 额度 - API Key - Base Url
 
+- 2025-05-28 sk-fbEydRpsnVlei0ryS1XmFVjeuCZ9wnpkOTvBsXpBz6wUy5RG https://api.gptacg.top `可用`(仅限gemini-2.0-flash、gemini-2.5-flash-preview-04-17、gemini-2.5-flash-preview-05-20）
+
 - 2025-05-24 sk-4bQjj9Nhce9FX7FFFzE7eHA2whVwnz4f6KBbd4oKAOwvx7qi https://api.gptacg.top `可用`
 
 - 2025-05-19 sk-sseyjn6HsaglYzJHIVvSd2VRLJYwIrirR8C2YmXmguUVs5sX https://api.gptacg.top `已耗尽`
