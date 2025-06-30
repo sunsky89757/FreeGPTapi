@@ -39,7 +39,7 @@
 
 ### Gemini系列
 
-`gemini-2.0-flash`、`gemini-2.0-flash-exp`、`gemini-2.0-flash-lite-preview-02-05`、`gemini-2.0-flash-thinking-exp-01-21`、`gemini-2.0-pro-exp-02-05`、`gemini-2.5-pro-exp-03-25`
+`gemini-2.0-flash`、、`gemini-2.5-flash`、`gemini-2.5-pro`
 
 
 ### 3.5系列
@@ -70,7 +70,9 @@
   
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-06-05 50刀 sk-eLZzJiSe4EJeKGloi5sKBeTZ4MOVJYM5Rn9DpX6GcsCWLfW6 https://api.gptacg.top `可用`
+- 2025-06-30 50刀 sk-3N1aNI2jC0nmrSWaVRldunIGP3jZj9YT8tWyeybrGpSICxR6 https://api.gptacg.top `可用`
+
+- 2025-06-05 50刀 sk-eLZzJiSe4EJeKGloi5sKBeTZ4MOVJYM5Rn9DpX6GcsCWLfW6 https://api.gptacg.top `已耗尽`
 
 - 2025-05-28 50刀 sk-fbEydRpsnVlei0ryS1XmFVjeuCZ9wnpkOTvBsXpBz6wUy5RG https://api.gptacg.top `可用`(仅限gemini-2.0-flash、gemini-2.5-flash-preview-04-17、gemini-2.5-flash-preview-05-20）
 
