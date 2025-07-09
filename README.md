@@ -70,11 +70,13 @@
   
 >格式：日期 - 额度 - API Key - Base Url
 
+- 2025-07-09 50刀 
+
 - 2025-06-30 50刀 sk-3N1aNI2jC0nmrSWaVRldunIGP3jZj9YT8tWyeybrGpSICxR6 https://api.gptacg.top `可用`
 
 - 2025-06-05 50刀 sk-eLZzJiSe4EJeKGloi5sKBeTZ4MOVJYM5Rn9DpX6GcsCWLfW6 https://api.gptacg.top `已耗尽`
 
-- 2025-05-28 50刀 sk-fbEydRpsnVlei0ryS1XmFVjeuCZ9wnpkOTvBsXpBz6wUy5RG https://api.gptacg.top `可用`(仅限gemini-2.0-flash、gemini-2.5-flash-preview-04-17、gemini-2.5-flash-preview-05-20）
+- 2025-05-28 50刀 sk-fbEydRpsnVlei0ryS1XmFVjeuCZ9wnpkOTvBsXpBz6wUy5RG https://api.gptacg.top `已耗尽`(仅限gemini-2.0-flash、gemini-2.5-flash-preview-04-17、gemini-2.5-flash-preview-05-20）
 
 - 2025-05-24 50刀 sk-4bQjj9Nhce9FX7FFFzE7eHA2whVwnz4f6KBbd4oKAOwvx7qi https://api.gptacg.top `已耗尽`
 
