@@ -2,7 +2,7 @@
 
 **tips：使用前可先点右上角star，发布新key能收到通知提醒**
 
-**tips：我们每次会在Github与QQ群同时发放各一个独立的等额Key，点击链接加入群聊【GPTACG中转API交流群】：https://qm.qq.com/q/hVTUhEOZeS**
+**tips：官方TG交流群：https://t.me/+OstvUmFWyw04MWVl**
 
 无过滤纯转发API，稳定率99%，首字响应0.8s以内，美国直连专线1Gbps大带宽双向专线加速
 
@@ -15,7 +15,7 @@
 
 ## 支持模型：
 
-所有模型请查看此表：https://api.gptacg.top/pricing
+所有模型请查看此表：[https://api.gptacg.top/pricing](https://apihk.unifyllm.top/pricing)
 
 ### o系列（新增）
 
@@ -128,13 +128,15 @@ AI应用选择OpenAI兼容格式，对应的API接口填写：
 
 ## 接口文档
 
-https://gptacg.apifox.cn/
+[https://gptacg.apifox.cn/](https://gptacgnew.apifox.cn/)
 
 ![image](https://github.com/user-attachments/assets/74825ba2-df24-4694-9864-03b1ead6036e)
 
 ## 加群交流
 
 点击链接加入群聊【GPTACG中转API交流群】：https://qm.qq.com/q/hVTUhEOZeS
+
+**tips：推荐官方TG交流群：https://t.me/+OstvUmFWyw04MWVl**
 
 ## 监控状态
 
