@@ -15,7 +15,7 @@
 
 ## 支持模型：
 
-所有模型请查看此表：[https://api.gptacg.top/pricing](https://apihk.unifyllm.top/pricing)
+所有模型请查看此表：https://apihk.unifyllm.top/pricing
 
 ### o系列（新增）
 
