@@ -1,4 +1,4 @@
-# 免费公益转发Gemini/Claude/GPT/Grok API，支持高并发，无地区限制
+## 免费公益转发Gemini/Claude/GPT/Grok API，支持高并发，无地区限制
 
 **tips：使用前可先点右上角star，发布新key能收到通知提醒**
 
