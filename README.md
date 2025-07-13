@@ -17,60 +17,33 @@
 
 所有模型请查看此表：https://apihk.unifyllm.top/pricing
 
-### o系列（新增）
+### OpenAI系列
 
-`o3` `o3-2025-04-16` `o4-mini` `o4-mini-2025-04-16`
-
-### GPT 4.1系列（新增）
-
-`gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14`
+`o3` `o3-2025-04-16` `o4-mini` `o4-mini-2025-04-16` `gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14` `gpt-3.5-turbo` `gpt-3.5-turbo-0125` `gpt-4o` `gpt-4o-2024-05-13` `gpt-4o-2024-08-06` `gpt-4o-2024-11-20` `gpt-4o-mini` `gpt-4o-mini-2024-07-18` `dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1` `gpt-4o-image` `gpt-4o-all`
 
 ### Grok系列
 
-`grok-3` `grok-3-all` `grok-3-deepersearch-all` `grok-3-deepsearch-all` `grok-3-image` `grok-3-think-all`
-
-### DeepSeek组合系列
-
-`DeepGemini-2.0-flash`（`DeepSeek-R1` + `gemini-2.0-flash`）、`DeepGemini-2.0-pro`（`DeepSeek-R1` + `gemini-2.0-pro-exp-02-05`）、`DeepGemini-2.5-pro`（`DeepSeek-R1` + `gemini-2.5-pro-exp-03-25`）、`DeepGPT-4o-1120`（`DeepSeek-R1` + `gpt-4o-2024-11-20`）
+`grok-4` `grok-3` `grok-3-mini` `grok-3-deepersearch-all` `grok-3-deepsearch-all` `grok-3-image` `grok-3-think-all`
 
 ### DeepSeek系列
 
-`DeepSeek-R1`（671b满血自部署无审核版本，速度快，高并发）、`DeepSeek-V3`（满血版本）、`DeepSeek-V3-0324`（满血版本）
+`DeepSeek-R1-0528` `DeepSeek-R1-` `DeepSeek-V3-0324` `DeepSeek-V3`
 
 ### Gemini系列
 
-`gemini-2.0-flash`、、`gemini-2.5-flash`、`gemini-2.5-pro`
-
-
-### 3.5系列
-
-`gpt-3.5-turbo` `gpt-3.5-turbo-0125` 
-
-### 4系列
-
-`gpt-4` `gpt-4-0125-preview` `gpt-4-1106-preview` `gpt-4-turbo` `gpt-4-turbo-2024-04-09` `gpt-4-turbo-preview` 
-
-### 4o系列
-
-`gpt-4o` `gpt-4o-2024-05-13` `gpt-4o-2024-08-06` `gpt-4o-2024-11-20` `gpt-4o-mini` `gpt-4o-mini-2024-07-18` 
+`gemini-2.0-flash` `gemini-2.5-flash` `gemini-2.5-pro`
 
 ### Claude系列
 
-`claude-3-7-sonnet-20250219` `claude-3-7-sonnet-thinkig` `claude-3-5-haiku-20241022` `claude-3-5-sonnet-20240620` `claude-3-5-sonnet-20241022` 
-
-### o1系列
-
-`o1-mini` `o1-mini-2024-09-12` `o1-preview` `o1-preview-2024-09-12` `o3-mini` `o3-mini-2025-01-31` 
-
-### 向量、绘图、音频系列
-
-`dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1` `gpt-4o-image` `gpt-4o-all`
+`claude-opus-4-20250514` `claude-sonnet-4-20250514` `claude-3-7-sonnet-20250219` `claude-3-5-haiku-20241022`
 
 ## 免费API Key
   
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-06-30 50刀 sk-3N1aNI2jC0nmrSWaVRldunIGP3jZj9YT8tWyeybrGpSICxR6 https://api.gptacg.top `可用`
+- 2025-07-13 50刀 sk-TN6eASjijcbqaj7HWhhHMxoaTCGnd6vUL0ZO2iXvONMq0nP9 https://apihk.unifyllm.top `可用`
+
+- 2025-06-30 50刀 sk-3N1aNI2jC0nmrSWaVRldunIGP3jZj9YT8tWyeybrGpSICxR6 https://api.gptacg.top `已耗尽`
 
 - 2025-06-05 50刀 sk-eLZzJiSe4EJeKGloi5sKBeTZ4MOVJYM5Rn9DpX6GcsCWLfW6 https://api.gptacg.top `已耗尽`
 
@@ -120,21 +93,21 @@
 
 AI应用选择OpenAI兼容格式，对应的API接口填写：
 
-`https://api.gptacg.top` 或
-`https://api.gptacg.top/v1` 或
-`https://api.gptacg.top/v1/chat/completions`
+`https://apihk.unifyllm.top` 或
+`https://apihk.unifyllm.top/v1` 或
+`https://apihk.unifyllm.top/v1/chat/completions`
 
 如需开发请参考下方文档。
 
 ## 接口文档
 
-[https://gptacg.apifox.cn/](https://gptacgnew.apifox.cn/)
+https://unifyllm.apifox.cn
 
 ![image](https://github.com/user-attachments/assets/74825ba2-df24-4694-9864-03b1ead6036e)
 
 ## 加群交流
 
-点击链接加入群聊【GPTACG中转API交流群】：https://qm.qq.com/q/hVTUhEOZeS
+点击链接加入群聊【UnifyLLM交流群(GPTACG)】：https://qm.qq.com/q/gjP2qRG5qw
 
 **tips：推荐官方TG交流群：https://t.me/+OstvUmFWyw04MWVl**
 
