@@ -19,11 +19,11 @@
 
 ### OpenAI系列
 
-`o3` `o3-2025-04-16` `o4-mini` `o4-mini-2025-04-16` `gpt-4.1` `gpt-4.1-mini` `gpt-4.1-nano` `gpt-4.1-2025-04-14` `gpt-4.1-mini-2025-04-14` `gpt-4.1-nano-2025-04-14` `gpt-3.5-turbo` `gpt-3.5-turbo-0125` `gpt-4o` `gpt-4o-2024-05-13` `gpt-4o-2024-08-06` `gpt-4o-2024-11-20` `gpt-4o-mini` `gpt-4o-mini-2024-07-18` `dall-e-3` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002` `tts-1` `tts-1-hd` `whisper-1` `gpt-4o-image` `gpt-4o-all`
+`o3` `o4-mini` `gpt-4.1` `gpt-4.1-nano` `gpt-4.1-mini` `gpt-3.5-turbo` `gpt-4o` `gpt-4o-mini` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002`
 
 ### Grok系列
 
-`grok-4` `grok-3` `grok-3-mini` `grok-3-deepersearch-all` `grok-3-deepsearch-all` `grok-3-image` `grok-3-think-all`
+`grok-4` `grok-3` `grok-3-mini`
 
 ### DeepSeek系列
 
