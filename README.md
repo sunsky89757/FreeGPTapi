@@ -1,7 +1,6 @@
-## 免费公益转发Gemini/Claude/GPT/Grok API，支持高并发，无地区限制
-
 <img width="2143" height="926" alt="image" src="https://github.com/user-attachments/assets/d0da7f80-949e-4c33-9679-595478f24a7d" />
 
+## 免费公益转发Gemini/Claude/GPT/Grok API，支持高并发，无地区限制
 
 **tips：使用前可先点右上角star，发布新key能收到通知提醒**
 
