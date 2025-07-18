@@ -119,11 +119,6 @@ https://unifyllm.apifox.cn
 
 https://uptime.stableapi.top/status/gptacg
 
-
-**推荐可以免费使用的AI应用**
-
-https://www.juheai.monster
-
 ## 人气曲线：
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sunsky89757/FreeGPTapi&type=Date)](https://star-history.com/#sunsky89757/FreeGPTapi&Date)
