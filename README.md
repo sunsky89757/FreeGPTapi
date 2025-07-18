@@ -29,7 +29,7 @@
 
 ### DeepSeek系列
 
-`DeepSeek-R1-0528` `DeepSeek-R1-` `DeepSeek-V3-0324` `DeepSeek-V3`
+`DeepSeek-R1-0528` `DeepSeek-R1` `DeepSeek-V3-0324` `DeepSeek-V3`
 
 ### Gemini系列
 
