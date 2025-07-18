@@ -119,8 +119,6 @@ https://unifyllm.apifox.cn
 
 https://uptime.stableapi.top/status/gptacg
 
-<img width="2005" height="1103" alt="image" src="https://github.com/user-attachments/assets/86ce9068-8c6f-47d4-9e7d-a6e1715ad907" />
-
 
 **推荐可以免费使用的AI应用**
 
