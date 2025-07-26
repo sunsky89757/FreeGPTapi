@@ -45,7 +45,7 @@
 
 - 2025-07-26 50刀 sk-oQt1759JBeTf1LUAM1gi58bhGrUBCAyEcXFGA6CY1h49mCo4 https://apihk.unifyllm.top `可用`（获取模型列表：https://unifyllm.apifox.cn/310975276e0 ），注册加群还可以送3刀：https://www.unifyllm.com
 
-- 2025-07-18 50刀 sk-HbFsNqKQrefk4cI9qWLakdw871RxWOZpOetW7QHpBiMTeCeS https://apihk.unifyllm.top `已耗尽`（获取模型列表：https://unifyllm.apifox.cn/310975276e0 ），注册加群还可以送3刀：https://www.unifyllm.com
+- 2025-07-18 50刀 sk-HbFsNqKQrefk4cI9qWLakdw871RxWOZpOetW7QHpBiMTeCeS https://apihk.unifyllm.top `已耗尽`
 
 - 2025-07-13 50刀 sk-TN6eASjijcbqaj7HWhhHMxoaTCGnd6vUL0ZO2iXvONMq0nP9 https://apihk.unifyllm.top `已耗尽`
 
@@ -53,7 +53,7 @@
 
 - 2025-06-05 50刀 sk-eLZzJiSe4EJeKGloi5sKBeTZ4MOVJYM5Rn9DpX6GcsCWLfW6 https://api.gptacg.top `已耗尽`
 
-- 2025-05-28 50刀 sk-fbEydRpsnVlei0ryS1XmFVjeuCZ9wnpkOTvBsXpBz6wUy5RG https://api.gptacg.top `已耗尽`(仅限gemini-2.0-flash、gemini-2.5-flash-preview-04-17、gemini-2.5-flash-preview-05-20）
+- 2025-05-28 50刀 sk-fbEydRpsnVlei0ryS1XmFVjeuCZ9wnpkOTvBsXpBz6wUy5RG https://api.gptacg.top `已耗尽`
 
 - 2025-05-24 50刀 sk-4bQjj9Nhce9FX7FFFzE7eHA2whVwnz4f6KBbd4oKAOwvx7qi https://api.gptacg.top `已耗尽`
 
