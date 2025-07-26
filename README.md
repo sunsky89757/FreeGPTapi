@@ -43,7 +43,9 @@
   
 >格式：日期 - 额度 - API Key - Base Url
 
-- 2025-07-18 50刀 sk-HbFsNqKQrefk4cI9qWLakdw871RxWOZpOetW7QHpBiMTeCeS https://apihk.unifyllm.top `可用`（获取模型列表：https://unifyllm.apifox.cn/310975276e0 ），注册加群还可以送3刀：https://www.unifyllm.com
+- 2025-07-26 50刀 sk-oQt1759JBeTf1LUAM1gi58bhGrUBCAyEcXFGA6CY1h49mCo4 https://apihk.unifyllm.top `可用`（获取模型列表：https://unifyllm.apifox.cn/310975276e0 ），注册加群还可以送3刀：https://www.unifyllm.com
+
+- 2025-07-18 50刀 sk-HbFsNqKQrefk4cI9qWLakdw871RxWOZpOetW7QHpBiMTeCeS https://apihk.unifyllm.top `已耗尽`（获取模型列表：https://unifyllm.apifox.cn/310975276e0 ），注册加群还可以送3刀：https://www.unifyllm.com
 
 - 2025-07-13 50刀 sk-TN6eASjijcbqaj7HWhhHMxoaTCGnd6vUL0ZO2iXvONMq0nP9 https://apihk.unifyllm.top `已耗尽`
 
