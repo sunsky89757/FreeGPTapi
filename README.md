@@ -2,6 +2,8 @@
 
 ## 免费公益转发Gemini/Claude/GPT/Grok API，支持高并发，无地区限制
 
+**注意：为保障更多人能够日常测试使用，免费key不允许高并发速刷，后台会监控并永久封禁异常调用的IP！！！**
+
 **tips：使用前可先点右上角star，发布新key能收到通知提醒**
 
 **tips：官方TG交流群：https://t.me/+OstvUmFWyw04MWVl**
