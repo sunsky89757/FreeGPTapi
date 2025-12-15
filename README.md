@@ -11,7 +11,6 @@
 无过滤纯转发API，稳定率99%，首字响应0.8s以内，美国直连专线1Gbps大带宽双向专线加速
 
 - 无速率限制；
-- 无模型限制；
 - 无上下文参数限制；
 - 无需魔法；
 - 定期更新公益api-key；
@@ -21,29 +20,9 @@
 
 所有模型请查看此表：https://apihk.unifyllm.top/pricing
 
-### OpenAI系列
-
-`o3` `o4-mini` `gpt-4.1` `gpt-4.1-nano` `gpt-4.1-mini` `gpt-3.5-turbo` `gpt-4o` `gpt-4o-mini` `text-embedding-3-large` `text-embedding-3-small` `text-embedding-ada-002`
-
-### Grok系列
-
-`grok-4` `grok-3` `grok-3-mini`
-
-### DeepSeek系列
-
-`DeepSeek-R1-0528` `DeepSeek-R1` `DeepSeek-V3-0324` `DeepSeek-V3`
-
-### Gemini系列
-
-`gemini-2.0-flash` `gemini-2.5-flash` `gemini-2.5-pro`
-
-### Claude系列
-
-`claude-opus-4-20250514` `claude-sonnet-4-20250514` `claude-3-7-sonnet-20250219` `claude-3-5-haiku-20241022`
-
 ## 免费API Key
 
-j接口地址：`https://apihk.unifyllm.to`
+接口地址：`https://apihk.unifyllm.to`
   
 >格式：日期 - 额度 - API Key - Base Url
 
