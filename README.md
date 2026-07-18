@@ -28,7 +28,7 @@
 
 - 2025-12-15 50刀 sk-bZLYemZRvRJVNg0uEiHAOoTnbPsqKRil1qhArZJa1edN4pu9 `可用`
 
-  如图，支持部分模型调用，如需全模型调用，请前往注册，进群领取3r测试额度https://www.unifyllm.com。：
+  如图，支持部分模型调用，如需全模型调用，请前往注册，进群领取3r测试额度https://www.unifyllm.com ：
   <img width="694" height="145" alt="image" src="https://github.com/user-attachments/assets/5ca34765-24cc-475a-8566-1fd6a3a3f3df" />
 
 
