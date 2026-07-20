@@ -187,13 +187,3 @@ UnifyLLM 是独立的 API 平台。OpenAI、GPT、Claude、Anthropic、Gemini、
 Google、Grok、xAI、DeepSeek 等产品名称和商标归其各自权利人所有。本仓库与
 上述模型厂商不存在隶属或官方背书关系。模型可用性、价格和上游行为可能调整，
 生产使用前请以实时文档为准。
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=sunsky89757%2FFreeGPTapi&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=sunsky89757/FreeGPTapi&type=date&theme=dark&legend=top-left&sealed_token=wZBzlj0tCTAPU-jX8MaKTJsDG6OmKqHPQbfl70UAggud8V2wp8JHRypkFidlMisxQPOiaBAH6EAn6jx-d382cnfsJckNRMgb1IvQRrykR-b8pRfxJL5tv7jGoHf4exG42s0doSrNhPJUCv7BVyhDvYWY88rTLiIUL1kpFWULStFLpjGHuODv0UhhNxmN" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=sunsky89757/FreeGPTapi&type=date&legend=top-left&sealed_token=wZBzlj0tCTAPU-jX8MaKTJsDG6OmKqHPQbfl70UAggud8V2wp8JHRypkFidlMisxQPOiaBAH6EAn6jx-d382cnfsJckNRMgb1IvQRrykR-b8pRfxJL5tv7jGoHf4exG42s0doSrNhPJUCv7BVyhDvYWY88rTLiIUL1kpFWULStFLpjGHuODv0UhhNxmN" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=sunsky89757/FreeGPTapi&type=date&legend=top-left&sealed_token=wZBzlj0tCTAPU-jX8MaKTJsDG6OmKqHPQbfl70UAggud8V2wp8JHRypkFidlMisxQPOiaBAH6EAn6jx-d382cnfsJckNRMgb1IvQRrykR-b8pRfxJL5tv7jGoHf4exG42s0doSrNhPJUCv7BVyhDvYWY88rTLiIUL1kpFWULStFLpjGHuODv0UhhNxmN" />
- </picture>
-</a>
