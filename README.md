@@ -193,4 +193,10 @@ their respective owners. This repository is not affiliated with or endorsed by
 those model providers. Model availability, pricing, and upstream behavior may
 change; always consult the live documentation before production use.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sunsky89757/FreeGPTapi&type=Date)](https://www.star-history.com/?type=date&repos=sunsky89757%2FFreeGPTapi)
+<a href="https://www.star-history.com/?repos=sunsky89757%2FFreeGPTapi&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=sunsky89757/FreeGPTapi&type=date&theme=dark&legend=top-left&sealed_token=wZBzlj0tCTAPU-jX8MaKTJsDG6OmKqHPQbfl70UAggud8V2wp8JHRypkFidlMisxQPOiaBAH6EAn6jx-d382cnfsJckNRMgb1IvQRrykR-b8pRfxJL5tv7jGoHf4exG42s0doSrNhPJUCv7BVyhDvYWY88rTLiIUL1kpFWULStFLpjGHuODv0UhhNxmN" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=sunsky89757/FreeGPTapi&type=date&legend=top-left&sealed_token=wZBzlj0tCTAPU-jX8MaKTJsDG6OmKqHPQbfl70UAggud8V2wp8JHRypkFidlMisxQPOiaBAH6EAn6jx-d382cnfsJckNRMgb1IvQRrykR-b8pRfxJL5tv7jGoHf4exG42s0doSrNhPJUCv7BVyhDvYWY88rTLiIUL1kpFWULStFLpjGHuODv0UhhNxmN" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=sunsky89757/FreeGPTapi&type=date&legend=top-left&sealed_token=wZBzlj0tCTAPU-jX8MaKTJsDG6OmKqHPQbfl70UAggud8V2wp8JHRypkFidlMisxQPOiaBAH6EAn6jx-d382cnfsJckNRMgb1IvQRrykR-b8pRfxJL5tv7jGoHf4exG42s0doSrNhPJUCv7BVyhDvYWY88rTLiIUL1kpFWULStFLpjGHuODv0UhhNxmN" />
+ </picture>
+</a>
