@@ -2,11 +2,11 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-<img width="2534" height="1300" alt="image" src="https://github.com/user-attachments/assets/d90d0524-710b-4e30-8dd2-98cec0458140" />
-
-
 > One OpenAI-compatible API for GPT, Claude, Gemini, Grok, DeepSeek, GLM,
 > Kimi, Qwen, MiniMax, and other leading models.
+
+<img width="2534" height="1300" alt="image" src="https://github.com/user-attachments/assets/4a620ae0-7d92-45b1-ac5d-fe1fb5dc85c9" />
+
 
 [![GitHub stars](https://img.shields.io/github/stars/sunsky89757/FreeGPTapi?style=flat-square)](https://github.com/sunsky89757/FreeGPTapi/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/sunsky89757/FreeGPTapi?style=flat-square)](https://github.com/sunsky89757/FreeGPTapi/commits/main/)
