@@ -27,15 +27,15 @@ examples, and new-user onboarding.
 > published yet. Watch this repository's Releases to be notified when it goes
 > live.
 
-| Item | Current campaign |
-| --- | --- |
-| API key | `PUBLIC_API_KEY_TO_BE_ADDED` |
-| Base URL | `https://api.unifyllm.top` |
-| Rate limit | **5 requests per minute (RPM)** |
-| Total quota | To be announced before release |
-| Expiration | To be announced before release |
+| Item             | Current campaign                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| API key          | `PUBLIC_API_KEY_TO_BE_ADDED`                                                                                             |
+| Base URL         | `https://api.unifyllm.top`                                                                                               |
+| Rate limit       | **5 requests per minute (RPM)**                                                                                          |
+| Total quota      | To be announced before release                                                                                           |
+| Expiration       | To be announced before release                                                                                           |
 | Available models | To be announced; the public key may support only a subset of the [live model catalog](https://www.unifyllm.com/pricing/) |
-| Intended use | Personal learning, evaluation, and compatibility testing |
+| Intended use     | Personal learning, evaluation, and compatibility testing                                                                 |
 
 The public key is shared by all visitors. It is not suitable for production,
 automation, load testing, resale, or confidential data. Availability may end
@@ -133,16 +133,16 @@ case, expected volume, and integration plan.
 
 ## Supported APIs and use cases
 
-| Capability | Documentation |
-| --- | --- |
-| OpenAI Chat Completions | [Create a Chat Completion](https://www.unifyllm.com/docs/api-reference/chat-completions/) |
-| OpenAI Responses | [Create a Model Response](https://www.unifyllm.com/docs/api-reference/responses/) |
-| Anthropic Messages | [Create a Message](https://www.unifyllm.com/docs/api-reference/messages/) |
-| Gemini GenerateContent | [Generate content](https://www.unifyllm.com/docs/api-reference/generate-content/) |
-| Images and image editing | [Image API reference](https://www.unifyllm.com/docs/api-reference/create-image/) |
-| Embeddings | [Create Embeddings](https://www.unifyllm.com/docs/api-reference/embeddings/) |
-| Model discovery | [List models](https://www.unifyllm.com/docs/api-reference/list-models/) |
-| Key usage | [Get key usage](https://www.unifyllm.com/docs/api-reference/key-usage/) |
+| Capability               | Documentation                                                                             |
+| ------------------------ | ----------------------------------------------------------------------------------------- |
+| OpenAI Chat Completions  | [Create a Chat Completion](https://www.unifyllm.com/docs/api-reference/chat-completions/) |
+| OpenAI Responses         | [Create a Model Response](https://www.unifyllm.com/docs/api-reference/responses/)         |
+| Anthropic Messages       | [Create a Message](https://www.unifyllm.com/docs/api-reference/messages/)                 |
+| Gemini GenerateContent   | [Generate content](https://www.unifyllm.com/docs/api-reference/generate-content/)         |
+| Images and image editing | [Image API reference](https://www.unifyllm.com/docs/api-reference/create-image/)          |
+| Embeddings               | [Create Embeddings](https://www.unifyllm.com/docs/api-reference/embeddings/)              |
+| Model discovery          | [List models](https://www.unifyllm.com/docs/api-reference/list-models/)                   |
+| Key usage                | [Get key usage](https://www.unifyllm.com/docs/api-reference/key-usage/)                   |
 
 The platform also documents integrations for Codex, Claude Code, Claude
 Desktop, Gemini CLI, OpenCode, OpenClaw, and other AI tools:
@@ -150,13 +150,13 @@ Desktop, Gemini CLI, OpenCode, OpenClaw, and other AI tools:
 
 ## Common errors
 
-| Error | What to check |
-| --- | --- |
-| `401 Unauthorized` | Confirm that the key is current and the `Authorization: Bearer ...` header is present. |
-| `402` or insufficient balance | The shared quota or personal balance may be exhausted. |
-| `404` / model not found | The model may not be available to this key or group. Check the campaign announcement or live catalog. |
-| `429 Too Many Requests` | The public key is limited to 5 RPM. Wait before retrying and avoid parallel calls. |
-| Timeout or `5xx` | Retry with backoff, then check announcements or contact support if the problem persists. |
+| Error                         | What to check                                                                                         |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `401 Unauthorized`            | Confirm that the key is current and the `Authorization: Bearer ...` header is present.                |
+| `402` or insufficient balance | The shared quota or personal balance may be exhausted.                                                |
+| `404` / model not found       | The model may not be available to this key or group. Check the campaign announcement or live catalog. |
+| `429 Too Many Requests`       | The public key is limited to 5 RPM. Wait before retrying and avoid parallel calls.                    |
+| Timeout or `5xx`              | Retry with backoff, then check announcements or contact support if the problem persists.              |
 
 ## Security
 
@@ -193,4 +193,4 @@ their respective owners. This repository is not affiliated with or endorsed by
 those model providers. Model availability, pricing, and upstream behavior may
 change; always consult the live documentation before production use.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sunsky89757/FreeGPTapi&type=Date)](https://star-history.com/#sunsky89757/FreeGPTapi&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sunsky89757/FreeGPTapi&type=Date)](https://www.star-history.com/?type=date&repos=sunsky89757%2FFreeGPTapi)
