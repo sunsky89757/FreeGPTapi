@@ -2,6 +2,9 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
+<img width="2534" height="1300" alt="image" src="https://github.com/user-attachments/assets/d90d0524-710b-4e30-8dd2-98cec0458140" />
+
+
 > One OpenAI-compatible API for GPT, Claude, Gemini, Grok, DeepSeek, GLM,
 > Kimi, Qwen, MiniMax, and other leading models.
 
